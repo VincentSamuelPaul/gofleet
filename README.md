@@ -1,4 +1,4 @@
-# GoFleet
+![gofleet](https://github.com/VincentSamuelPaul/gofleet/blob/main/icon.jpg)
 
 **GoFleet** is a simple load balancer written in Go that distributes incoming work requests across multiple backend nodes using a **round-robin** strategy. Each node processes jobs using a **worker pool** and a **queue system** to simulate real-world load handling.
 
@@ -57,6 +57,6 @@ gofleet/
 
 ## 🔧 Future Ideas
 
-- Round-robin with weight/fairness
-- Dockerized deployment
+- Fault Tolerance
+- Plug and Play module
 - Web dashboard with metrics
