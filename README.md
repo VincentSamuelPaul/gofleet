@@ -24,6 +24,18 @@
 
 ---
 
+## Initialising the Load Balancer and Nodes
+
+![init](https://github.com/VincentSamuelPaul/gofleet/blob/main/init.png)
+
+---
+
+## Running the Tests
+
+![test](https://github.com/VincentSamuelPaul/gofleet/blob/main/testing.png)
+
+---
+
 ## 🛠️ Run It Locally
 
 ```bash
