@@ -19,6 +19,7 @@ A lightweight distributed systems toolkit with LoadBalancer and KeyValueStore wr
 
 * gRPC-based key-value storage
 * In-memory cache + map-based backing store
+* A LRUCache(least recently used) cache
 * Execution-time benchmarking (cache hit vs miss)
 * Lightweight, Redis-inspired design
 
