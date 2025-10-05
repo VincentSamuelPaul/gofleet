@@ -119,7 +119,7 @@ go run server.go
 
 ---
 
-### Running the Client
+### Running the kvstore client
 
 1. In a new terminal, navigate to the client folder:
 
@@ -149,6 +149,10 @@ Example output:
 
 ## 🔧 Future Ideas
 
-- Fault Tolerance
+- Fault Tolerance, replication & sharding to the KVStore
 - Plug and Play module
 - Web dashboard with metrics
+
+## License
+
+MIT License
