@@ -8,8 +8,6 @@ A lightweight distributed systems toolkit with LoadBalancer and KeyValueStore wr
 
 ## 🚀 Features
 
-## 🚀 Features
-
 ### Load Balancer
 
 * Round-robin request distribution
